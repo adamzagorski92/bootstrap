@@ -1,0 +1,15 @@
+body, p {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+.bg-blue {
+    background-color: blue;
+    color: white;
+}
+img {
+    border-radius: 5%;
+}

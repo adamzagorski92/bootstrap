@@ -1,0 +1,8 @@
+Jak tworzyć siatkę Bootstrap:
+
+wiersze powinny być umieszczane w kontenerach, a kolumny w wierszach;
+wierszy należy używać do tworzenia grup kolumn w poziomie;
+treść należy umieszczać w kolumnach;
+kolumny siatki są tworzone przez podanie liczby dwunastu dostępnych kolumn, które chcesz objąć, np. trzy równe kolumny użyłby 3 razy .col-md-4;
+alternatywnie kolumny tworzone są poprze dodanie do poszczególnych elementów w rzędzie samej klasy .col – podzieli ona rząd na tyle kolumn ile jest w nim elementów z tą klasą
+do tworzenia siatki należy używać predefiniowanych klas kontenera (.container lub .container-fluid), wiersz (.row), kolumna (np. .col-md-4).
