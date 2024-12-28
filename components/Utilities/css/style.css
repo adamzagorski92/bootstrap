@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 250, 157);
+}
+
+.bg-nav {
+    background-color: rgba(173, 216, 230, 0.8);
+}
+
+.outer {
+    background-color: orange;
+    height: 600px;
+}
+.inner {
+    background-color: blue;
+}
+
+.text-justify {
+    text-align: justify;
+}
